@@ -10,7 +10,7 @@
 demo:http://poem.open356.com
 
 使用方法：直接替换原来的typecho文件即可。
-#＃ 因改动较多，请先做好备份
+## 因改动较多，请先做好备份
 
 登录和注册界面在admin/login.php和admin/register.php
 其中的网站标题可以自己去文件中修改。
