@@ -10,7 +10,7 @@
 demo:http://poem.open356.com
 
 使用方法：直接替换原来的typecho文件即可。
-
+# 因改动较多，请务必先备份好原来的文件以便恢复！！！
 
 ![image](https://github.com/CrazyBoyM/typecho-change/blob/master/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20190501170137.png)
 
